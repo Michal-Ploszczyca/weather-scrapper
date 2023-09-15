@@ -30,4 +30,4 @@ This script is designed to be seamlessly connected to the main Twitter Bot. Once
 
 ## ⚠️ Note
 
-This script is just one piece of the broader Twitter Weather Bot project. Ensure all components are correctly integrated for the bot to function smoothly. Always respect scraping guidelines and terms of service when using this tool.
+This script is just one piece of the broader Twitter Weather Bot project. Ensure all components are correctly integrated for the bot to function smoothly. 
